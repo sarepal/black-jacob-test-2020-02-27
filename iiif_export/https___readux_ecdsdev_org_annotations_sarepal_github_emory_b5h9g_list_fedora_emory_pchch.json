@@ -1,0 +1,181 @@
+{
+    "@id": "https://readux.ecdsdev.org/annotations/sarepal-github/emory:b5h9g/list/fedora:emory:pchch",
+    "resources": [
+        {
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "996aadd4-4e65-44b1-9fbf-1bd7f8a333fd",
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/canvas/fedora:emory:pchch",
+                "@type": "oa:SpecificResource",
+                "selector": {
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            },
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='ee7785b2-4800-4d1b-ad06-4d90b646b05f']"
+                        },
+                        "endSelector": {
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 12
+                            },
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='65e42f88-b168-4c57-b1e5-3e8a815ea9da']"
+                        }
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=330,588,706,90"
+                }
+            },
+            "resource": [
+                {
+                    "format": "text/html",
+                    "@type": "dctypes:Text",
+                    "chars": "<p>note</p>",
+                    "language": "en"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag1"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag1"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag1"
+                }
+            ],
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ]
+        },
+        {
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "093a2613-52bc-460c-a41e-8e975ee74f41",
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/canvas/fedora:emory:pchch",
+                "@type": "oa:SpecificResource",
+                "selector": {
+                    "item": {
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=257,870,812,398"
+                        },
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M256.82708,869.96862h406.22468v0h406.22468v198.93153v198.93153h-406.22468h-406.22468v-198.93153z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b51252ac-ef80-4b0a-858f-c59f6a903664\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"14.90066\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=257,870,812,398"
+                }
+            },
+            "resource": [
+                {
+                    "format": "text/html",
+                    "@type": "dctypes:Text",
+                    "chars": "<p>shape note</p>",
+                    "language": "en"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag2"
+                }
+            ],
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ]
+        },
+        {
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "stylesheet": {
+                "value": ".anno-a7059e9d-013a-48d9-9017-0845eb83c9ba { background: rgba(0, 191, 255, 0.5); }",
+                "type": "CssStylesheet"
+            },
+            "@id": "a7059e9d-013a-48d9-9017-0845eb83c9ba",
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/canvas/fedora:emory:pchch",
+                "@type": "oa:SpecificResource",
+                "selector": {
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 2
+                            },
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='65e42f88-b168-4c57-b1e5-3e8a815ea9da']"
+                        },
+                        "endSelector": {
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 15
+                            },
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='3569a696-6feb-4505-9410-8ca0d1f88331']"
+                        }
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=499,762,367,29"
+                }
+            },
+            "resource": [
+                {
+                    "format": "text/html",
+                    "@type": "dctypes:Text",
+                    "chars": "<p>another note</p>",
+                    "language": "en"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag1"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag1"
+                },
+                {
+                    "@type": "oa:Tag",
+                    "chars": "tag1"
+                }
+            ],
+            "motivation": [
+                "oa:commenting",
+                "oa:tagging"
+            ]
+        }
+    ],
+    "@type": "sc:AnnotationList",
+    "@context": "http://iiif.io/api/presentation/2/context.json"
+}
